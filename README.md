@@ -10,12 +10,12 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<img src="logos/excel.svg" width="100" height="100" alt="Excel">
+<img src="logos/Excel.svg" width="100" height="100" alt="Excel">
 <img src="logos/Python.svg" width="100" height="100" alt="Python">
 <img src="logos/NumPy.svg" width="100" height="100" alt="NumPy">
 <img src="logos/Pandas.svg" width="100" height="100" alt="Pandas">
 <img src="logos/Matplotlib.svg" width="100" height="100" alt="Matplotlib">
-<img src="logos/Seaborn.svg" width="100" height="100" alt="Seaborn">
+<img src="logos/seaborn.svg" width="100" height="100" alt="Seaborn">
 <img src="logos/scikit-learn.svg" width="100" height="100" alt="Scikit-learn">
 <img src="logos/Git.svg" width="100" height="100" alt="Git">
 <img src="logos/GitHub.svg" width="100" height="100" alt="GitHub">
