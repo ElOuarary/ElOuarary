@@ -4,7 +4,7 @@
 
 ## About ME 👨‍💻:
 
-#### Passionate with data and artificial intellegince, I decided to dive in to the domaine of data science and machine learning. During this journey, I encountred severals diffuclties and managed to overcome then by learning for my mistakes, trying different approaches and most import of them maintaining that discipline. Encountring with data and trying to make use of it develooped my sence of logical thinking and problem solving technique, with that tasks became easier and data became much more valuable for my perspective.
+#### Passionate with data and artificial intelligence, I decided to dive in to the domain of data science and machine learning. During this journey, I encountered severals diffuclties and managed to overcome then by learning for my mistakes, trying different approaches and most import of them maintaining that discipline. Encountring with data and trying to make use of it develooped my sence of logical thinking and problem solving technique, with that tasks became easier and data became much more valuable for my perspective.
 
 ---
 
@@ -14,7 +14,6 @@
 - #### Listening to Symphonies & Sonata 🎼
 - #### Body Building & Calisthenics 🏋
 - #### Playing Chess ♟
-  #### ...
 
 ---
 
