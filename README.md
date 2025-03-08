@@ -24,6 +24,7 @@
 <img src="logos/Excel.svg" width="80" height="80" alt="Excel">
 <img src="logos/Python.svg" width="80" height="80" alt="Python">
 <img src="logos/NumPy.svg" width="80" height="80" alt="NumPy">
+<img src='logos/scipy.svg' width="80" height="80" alt="SciPy"> 
 <img src="logos/Pandas.svg" width="80" height="80" alt="Pandas">
 <img src="logos/Matplotlib.svg" width="80" height="80" alt="Matplotlib">
 <img src="logos/seaborn.svg" width="80" height="80" alt="Seaborn">
