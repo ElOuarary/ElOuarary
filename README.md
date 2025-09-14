@@ -1,50 +1,19 @@
-# Hello 👋, my name is **Abdelaziz El Ouarary**
+<h1 align="center">Hi 👋, I'm EL Ouarary Abdelaziz</h1>
+<h3 align="center">A passionate student about machine learning and AI</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elouarary&label=Profile%20views&color=0e75b6&style=flat" alt="elouarary" /> </p>
 
-## About ME 👨‍💻:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elouarary" alt="elouarary" /></a> </p>
 
-#### Passionate with data and artificial intelligence, I decided to dive in to the domain of data science and machine learning. During this journey, I encountered severals diffuclties and managed to overcome then by learning for my mistakes, trying different approaches and most import of them maintaining that discipline. Encountring with data and trying to make use of it develooped my sence of logical thinking and problem solving technique, with that tasks became easier and data became much more valuable for my perspective.
+- 🌱 I’m currently learning **to design data intesive system**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/el ouarary abdelaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el ouarary abdelaziz" height="30" width="40" /></a>
+<a href="https://instagram.com/abdlaziz_el_ouarary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdlaziz_el_ouarary" height="30" width="40" /></a>
+</p>
 
-## My Leisure Activities:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- #### Travelling & Exploring 🏕
-- #### Listening to Symphonies & Sonata 🎼
-- #### Body Building & Calisthenics 🏋
-- #### Playing Chess ♟
-
----
-
-## Language & Tools 🛠:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-<img src="logos/Excel.svg" width="80" height="80" alt="Excel">
-<img src="logos/Python.svg" width="80" height="80" alt="Python">
-<img src="logos/NumPy.svg" width="80" height="80" alt="NumPy">
-<img src='logos/scipy.svg' width="80" height="80" alt="SciPy"> 
-<img src="logos/Pandas.svg" width="80" height="80" alt="Pandas">
-<img src="logos/Matplotlib.svg" width="80" height="80" alt="Matplotlib">
-<img src="logos/seaborn.svg" width="80" height="80" alt="Seaborn">
-<img src="logos/scikit-learn.svg" width="80" height="80" alt="Scikit-learn">
-<img src="logos/Git.svg" width="80" height="80" alt="Git">
-<img src="logos/GitHub.svg" width="80" height="80" alt="GitHub">
-<img src="logos/MySQL.svg" width="80" height="80" alt="MySQL">
-<img src="logos/PostgresSQL.svg" width="80" height="80" alt="PostgresSQL">
-<img src="logos/MongoDB.svg" width="80" height="80" alt="MongoDB">
-<img src="logos/TensorFlow.svg" width="80" height="80" alt="TensorFlow">
-<img src="logos/PyTorch.svg" width="80" height="80" alt="PyTorch">
-<img src="logos/Keras.svg" width="80" height="80" alt="Keras">
-<img src="logos/Docker.svg" width="80" height="80" alt="Docker">
-<img src="logos/Flask.svg" width="80" height="80" alt="Flask">
-<img src="logos/Jupyter.svg" width="80" height="80" alt="Jupyter">
-<img src="logos/PyCharm.svg" width="80" height="80" alt="PyCharm">
-<img src="logos/Anaconda.svg" width="80" height="80" alt="Anaconda">
-
-</div>
-
----
-
-## Contact Info 📬:
+![ElOuarary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElOuarary&show_icons=true&theme=radical)
