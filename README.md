@@ -1,19 +1,66 @@
-<h1 align="center">Hi 👋, I'm EL Ouarary Abdelaziz</h1>
-<h3 align="center">A passionate student about machine learning and AI</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=El%20Ouarary%20Abdelaziz&fontSize=38&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38" alt="header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elouarary&label=Profile%20views&color=0e75b6&style=flat" alt="elouarary" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elouarary" alt="elouarary" /></a> </p>
-
-- 🌱 I’m currently learning **to design data intesive system**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/el ouarary abdelaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el ouarary abdelaziz" height="30" width="40" /></a>
-<a href="https://instagram.com/abdlaziz_el_ouarary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdlaziz_el_ouarary" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ElOuarary"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Curious+student+exploring+code;Learning+Python%2C+APIs+%26+ML;Building+projects+to+understand+deeply" alt="typing"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### About me
+> CS student learning by building — currently exploring backend APIs, data pipelines, and ML fundamentals, one project at a time.
 
-![ElOuarary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElOuarary&show_icons=true&theme=radical)
+### Featured builds
+| | | |
+|---|---|---|
+| [![PasteBin-System](https://github-readme-stats.vercel.app/api/pin/?username=ElOuarary&repo=PasteBin-System&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/ElOuarary/PasteBin-System) | [![enedis_pipeline](https://github-readme-stats.vercel.app/api/pin/?username=ElOuarary&repo=enedis_pipeline&theme=gruvbox&hide_border=true&bg_color=0d1117)](https://github.com/ElOuarary/enedis_pipeline) | [![ML-DL-From-Scratch](https://github-readme-stats.vercel.app/api/pin/?username=ElOuarary&repo=ML-DL-From-Scratch&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/ElOuarary/ML-DL-From-Scratch) |
+
+### Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="js" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" alt="go" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="30" alt="rust" />
+
+### Web Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" alt="fastapi" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="flask" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="express" />
+
+### Data, ML & DL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="tf" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" alt="pytorch" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" alt="opencv" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30" alt="sklearn" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" alt="numpy" />&nbsp;
+<img src="https://cdn.simpleicons.org/polars" width="30" alt="polars" />
+
+### AI Tools
+<img src="assets/hermes-agent-mark.png" width="30" alt="hermes" />&nbsp;
+<img src="https://cdn.simpleicons.org/langchain" width="30" alt="langchain" />&nbsp;
+<img src="https://cdn.simpleicons.org/langgraph" width="30" alt="langgraph" />&nbsp;
+<img src="https://raw.githubusercontent.com/langchain-ai/langsmith-sdk/main/python/docs/_static/img/brand/favicon.png" width="30" alt="langsmith" />&nbsp;
+<img src="https://github.com/run-llama.png" width="30" alt="llamaindex" />
+
+### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="mysql" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="postgres" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="mongo" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" alt="redis" />&nbsp;
+<img src="assets/chromadb-mark.png" width="30" alt="chroma" />&nbsp;
+<img src="https://cdn.simpleicons.org/qdrant" width="30" alt="qdrant" />
+
+### Tools & Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="docker" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="git" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="github" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="linux" />
+
+### Activity
+<p align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ElOuarary&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="stats"/>
+<img height="150" src="https://streak-stats.demolab.com?user=ElOuarary&theme=dark&hide_border=true&background=0d1117" alt="streak"/>
+</p>
+
+### Reach me
+<p>
+<a href="https://www.linkedin.com/in/el-ouarary-abdelaziz-34a815279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/abdelaziz_eloua/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:abdlazizelouarary@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
