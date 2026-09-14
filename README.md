@@ -5,12 +5,16 @@
 </p>
 
 ### About me
-> CS student learning by building — currently exploring backend APIs, data pipelines, and ML fundamentals, one project at a time.
+> AI & Data student learning by building — backend APIs, data pipelines, and ML fundamentals, one project at a time.
+
+**Currently exploring:** RAG • Agents • LLM fine-tuning
 
 ### Featured builds
-| | | |
-|---|---|---|
-| [![PasteBin-System](https://github-readme-stats.vercel.app/api/pin/?username=ElOuarary&repo=PasteBin-System&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/ElOuarary/PasteBin-System) | [![enedis_pipeline](https://github-readme-stats.vercel.app/api/pin/?username=ElOuarary&repo=enedis_pipeline&theme=gruvbox&hide_border=true&bg_color=0d1117)](https://github.com/ElOuarary/enedis_pipeline) | [![ML-DL-From-Scratch](https://github-readme-stats.vercel.app/api/pin/?username=ElOuarary&repo=ML-DL-From-Scratch&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/ElOuarary/ML-DL-From-Scratch) |
+| Project | Learning focus | Stars | Forks |
+|---|---|---|---|
+| [PasteBin-System](https://github.com/ElOuarary/PasteBin-System) | Systems/backend: FastAPI, queues, caching, microservices evolution | ![](https://img.shields.io/github/stars/ElOuarary/PasteBin-System?style=flat&color=8b5cf6) | ![](https://img.shields.io/github/forks/ElOuarary/PasteBin-System?style=flat&color=a78bfa) |
+| [enedis_pipeline](https://github.com/ElOuarary/enedis_pipeline) | Data pipeline: ingestion → processing → dashboard, Docker | ![](https://img.shields.io/github/stars/ElOuarary/enedis_pipeline?style=flat&color=8b5cf6) | ![](https://img.shields.io/github/forks/ElOuarary/enedis_pipeline?style=flat&color=a78bfa) |
+| [ML-DL-From-Scratch](https://github.com/ElOuarary/ML-DL-From-Scratch) | ML/DL fundamentals: tensor ops, autograd, optimizers, RL | ![](https://img.shields.io/github/stars/ElOuarary/ML-DL-From-Scratch?style=flat&color=8b5cf6) | ![](https://img.shields.io/github/forks/ElOuarary/ML-DL-From-Scratch?style=flat&color=a78bfa) |
 
 ### Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python" />&nbsp;
