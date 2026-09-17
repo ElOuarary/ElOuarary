@@ -112,7 +112,7 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
 
 ### Activity Overview
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ElOuarary&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub activity statistics"/>
+[View live GitHub activity →](https://github.com/ElOuarary)
 
 <sub><b>PLATFORMS</b> · Docker · Git · Linux</sub>
 
