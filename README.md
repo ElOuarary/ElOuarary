@@ -40,29 +40,21 @@ Learning by building, deploying, and documenting one system at a time.
 
 ### Featured Builds
 
-<table width="100%">
-<tr><td>
 <sub>01 · LEARNING FOCUS</sub><br/>
 <a href="https://github.com/ElOuarary/PasteBin-System"><b>PasteBin-System</b></a><br/>
 Systems/backend: FastAPI, queues, caching, microservices evolution.
-</td></tr>
-</table>
 
-<table width="100%">
-<tr><td>
+<hr/>
+
 <sub>02 · LEARNING FOCUS</sub><br/>
 <a href="https://github.com/ElOuarary/enedis_pipeline"><b>enedis_pipeline</b></a><br/>
 Data pipeline: ingestion → processing → dashboard, Docker.
-</td></tr>
-</table>
 
-<table width="100%">
-<tr><td>
+<hr/>
+
 <sub>03 · LEARNING FOCUS</sub><br/>
 <a href="https://github.com/ElOuarary/ML-DL-From-Scratch"><b>ML-DL-From-Scratch</b></a><br/>
 ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
-</td></tr>
-</table>
 
 </td>
 
