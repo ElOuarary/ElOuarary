@@ -4,8 +4,6 @@
 
 <a href="https://github.com/ElOuarary"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=A78BFA&vCenter=true&width=390&height=28&lines=Learning+Python%2C+APIs+%26+ML" alt="Learning Python, APIs and ML"/></a>
 
-<sub>~/profile/README.md</sub>
-
 # El Ouarary Abdelaziz
 
 Learning by building, deploying, and documenting one system at a time.
@@ -40,20 +38,20 @@ Learning by building, deploying, and documenting one system at a time.
 
 ### Featured Builds
 
-<sub>01 · LEARNING FOCUS</sub><br/>
-<a href="https://github.com/ElOuarary/PasteBin-System"><b>PasteBin-System</b></a><br/>
+<a href="https://github.com/ElOuarary/PasteBin-System"><b>PasteBin-System</b></a>
+<br/></br>
 Systems/backend: FastAPI, queues, caching, microservices evolution.
 
 <hr/>
 
-<sub>02 · LEARNING FOCUS</sub><br/>
-<a href="https://github.com/ElOuarary/enedis_pipeline"><b>enedis_pipeline</b></a><br/>
+<a href="https://github.com/ElOuarary/enedis_pipeline"><b>enedis_pipeline</b></a>
+</br><br/>
 Data pipeline: ingestion → processing → dashboard, Docker.
 
 <hr/>
 
-<sub>03 · LEARNING FOCUS</sub><br/>
-<a href="https://github.com/ElOuarary/ML-DL-From-Scratch"><b>ML-DL-From-Scratch</b></a><br/>
+<a href="https://github.com/ElOuarary/ML-DL-From-Scratch"><b>ML-DL-From-Scratch</b></a>
+</br/></br>
 ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
 
 </td>
