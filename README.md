@@ -5,16 +5,14 @@
 </p>
 
 ### About me
-> AI & Data student learning by building — backend APIs, data pipelines, and ML fundamentals, one project at a time.
-
-**Currently exploring:** RAG • Agents • LLM fine-tuning
+> Learning by building, deploying, and documenting one system at a time.
 
 ### Featured builds
-| Project | Learning focus | Stars | Forks |
-|---|---|---|---|
-| [PasteBin-System](https://github.com/ElOuarary/PasteBin-System) | Systems/backend: FastAPI, queues, caching, microservices evolution | ![](https://img.shields.io/github/stars/ElOuarary/PasteBin-System?style=flat&color=8b5cf6) | ![](https://img.shields.io/github/forks/ElOuarary/PasteBin-System?style=flat&color=a78bfa) |
-| [enedis_pipeline](https://github.com/ElOuarary/enedis_pipeline) | Data pipeline: ingestion → processing → dashboard, Docker | ![](https://img.shields.io/github/stars/ElOuarary/enedis_pipeline?style=flat&color=8b5cf6) | ![](https://img.shields.io/github/forks/ElOuarary/enedis_pipeline?style=flat&color=a78bfa) |
-| [ML-DL-From-Scratch](https://github.com/ElOuarary/ML-DL-From-Scratch) | ML/DL fundamentals: tensor ops, autograd, optimizers, RL | ![](https://img.shields.io/github/stars/ElOuarary/ML-DL-From-Scratch?style=flat&color=8b5cf6) | ![](https://img.shields.io/github/forks/ElOuarary/ML-DL-From-Scratch?style=flat&color=a78bfa) |
+| Project | Learning focus |
+|---|---|
+| [PasteBin-System](https://github.com/ElOuarary/PasteBin-System) | Systems/backend: FastAPI, queues, caching, microservices evolution |
+| [enedis_pipeline](https://github.com/ElOuarary/enedis_pipeline) | Data pipeline: ingestion → processing → dashboard, Docker |
+| [ML-DL-From-Scratch](https://github.com/ElOuarary/ML-DL-From-Scratch) | ML/DL fundamentals: tensor ops, autograd, optimizers, RL |
 
 ### Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python" />&nbsp;
