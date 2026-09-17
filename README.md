@@ -7,28 +7,38 @@
 <table>
 <tr>
 
-<td valign="top" width="65%">
+<td valign="top" width="56%">
 
 ### About me
+
 > Learning by building, deploying, and documenting one system at a time.
 
 ### Featured builds
-| Project | Learning focus |
-|---|---|
-| [PasteBin-System](https://github.com/ElOuarary/PasteBin-System) | Systems/backend: FastAPI, queues, caching, microservices evolution |
-| [enedis_pipeline](https://github.com/ElOuarary/enedis_pipeline) | Data pipeline: ingestion → processing → dashboard, Docker |
-| [ML-DL-From-Scratch](https://github.com/ElOuarary/ML-DL-From-Scratch) | ML/DL fundamentals: tensor ops, autograd, optimizers, RL |
+
+#### [PasteBin-System](https://github.com/ElOuarary/PasteBin-System)
+
+Systems/backend: FastAPI, queues, caching, microservices evolution.
+
+#### [enedis_pipeline](https://github.com/ElOuarary/enedis_pipeline)
+
+Data pipeline: ingestion → processing → dashboard, Docker.
+
+#### [ML-DL-From-Scratch](https://github.com/ElOuarary/ML-DL-From-Scratch)
+
+ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
 
 </td>
 
-<td valign="top" width="35%">
+<td valign="top" width="44%">
 
-#### Reach me
+### Reach me
+
 <a href="https://www.linkedin.com/in/el-ouarary-abdelaziz-34a815279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/abdelaziz_eloua/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:abdlazizelouarary@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-#### Technical Stack
+### Technical Stack
+
 **Programming Languages**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="js"/>&nbsp;
@@ -69,7 +79,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="github"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="linux"/>&nbsp;
 
-#### Activity
+### Activity
+
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=ElOuarary&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="stats"/>
 <img height="150" src="https://streak-stats.demolab.com?user=ElOuarary&theme=dark&hide_border=true&background=0d1117" alt="streak"/>
