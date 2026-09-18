@@ -107,12 +107,15 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
 
 <br/>
 
+<sub><b>PLATFORMS</b> · Docker · Git · Linux</sub>
+
+<br/>
+
 <sub><b>GITHUB SIGNAL</b></sub>
 
 ### Activity Overview
 
 <a href="https://github.com/ElOuarary">View live GitHub activity →</a>
-
 
 </td>
 </tr>
