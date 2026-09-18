@@ -16,7 +16,6 @@ Learning by building, deploying, and documenting one system at a time.
 
 [LinkedIn](https://www.linkedin.com/in/el-ouarary-abdelaziz-34a815279/) ↗<br/>
 [Gmail](mailto:abdlazizelouarary@gmail.com) ↗<br/>
-[GitHub](https://github.com/ElOuarary) ↗<br/>
 [Instagram](https://www.instagram.com/abdelaziz_eloua/) ↗
 
 <br/>
@@ -70,14 +69,14 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" alt="Go"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="30" alt="Rust"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>WEB FRAMEWORKS</b></sub><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>DATA, ML &amp; DL</b></sub><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="TensorFlow"/>&nbsp;
@@ -87,7 +86,7 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" alt="NumPy"/>&nbsp;
 <img src="https://cdn.simpleicons.org/polars" width="30" alt="Polars"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>AI TOOLS</b></sub><br/>
 <img src="assets/hermes-agent-mark.png" width="30" alt="Hermes"/>&nbsp;
@@ -96,7 +95,7 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
 <img src="https://raw.githubusercontent.com/langchain-ai/langsmith-sdk/main/python/docs/_static/img/brand/favicon.png" width="30" alt="LangSmith"/>&nbsp;
 <img src="https://github.com/run-llama.png" width="30" alt="LlamaIndex"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>DATABASES</b></sub><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>&nbsp;
@@ -106,7 +105,7 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
 <img src="assets/chromadb-mark.png" width="30" alt="Chroma"/>&nbsp;
 <img src="https://cdn.simpleicons.org/qdrant" width="30" alt="Qdrant"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>GITHUB SIGNAL</b></sub>
 
@@ -114,9 +113,6 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
 
 <a href="https://github.com/ElOuarary">View live GitHub activity →</a>
 
-<br/><br/>
-
-<sub><b>PLATFORMS</b> · Docker · Git · Linux</sub>
 
 </td>
 </tr>
