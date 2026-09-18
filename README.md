@@ -61,19 +61,20 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
 ### Technical Stack
 
 <sub><b>PROGRAMMING LANGUAGES</b></sub><br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" alt="Go"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="30" alt="Rust"/>
 
-<br/>
 <sub><b>WEB FRAMEWORKS</b></sub><br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express"/>
 
-<br/>
 <sub><b>DATA, ML &amp; DL</b></sub><br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" alt="TensorFlow"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" alt="PyTorch"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30" alt="OpenCV"/>&nbsp;
@@ -81,16 +82,16 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" alt="NumPy"/>&nbsp;
 <img src="https://cdn.simpleicons.org/polars" width="30" alt="Polars"/>
 
-<br/>
 <sub><b>AI TOOLS</b></sub><br/>
+
 <img src="assets/hermes-agent-mark.png" width="30" alt="Hermes"/>&nbsp;
 <img src="https://cdn.simpleicons.org/langchain" width="30" alt="LangChain"/>&nbsp;
 <img src="https://cdn.simpleicons.org/langgraph" width="30" alt="LangGraph"/>&nbsp;
 <img src="https://raw.githubusercontent.com/langchain-ai/langsmith-sdk/main/python/docs/_static/img/brand/favicon.png" width="30" alt="LangSmith"/>&nbsp;
 <img src="https://github.com/run-llama.png" width="30" alt="LlamaIndex"/>
 
-<br/>
 <sub><b>DATABASES</b></sub><br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>&nbsp;
@@ -98,14 +99,10 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
 <img src="assets/chromadb-mark.png" width="30" alt="Chroma"/>&nbsp;
 <img src="https://cdn.simpleicons.org/qdrant" width="30" alt="Qdrant"/>
 
-<br/>
 <sub><b>PLATFORMS</b></sub><br/>
 <img src="https://cdn.simpleicons.org/docker" width="30" alt="Docker"/>&nbsp;
 <img src="https://cdn.simpleicons.org/git" width="30" alt="Git"/>&nbsp;
 <img src="https://cdn.simpleicons.org/linux" width="30" alt="Linux"/>
-
-<br/>
-<sub><b>GITHUB SIGNAL</b></sub>
 
 ### Activity Overview
 
