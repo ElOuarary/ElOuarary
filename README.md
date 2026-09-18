@@ -2,10 +2,6 @@
 <tr>
 <td width="66%" valign="top">
 
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
-<tr>
-<td>
-
 <a href="https://github.com/ElOuarary"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=A78BFA&vCenter=true&width=390&height=28&lines=Learning+Python%2C+APIs+%26+ML" alt="Learning Python, APIs and ML"/></a>
 
 # El Ouarary Abdelaziz
@@ -13,33 +9,19 @@
 Learning by building, deploying, and documenting one system at a time.
 
 </td>
-</tr>
-</table>
-
-</td>
 <td width="2%">&nbsp;</td>
 <td width="32%" valign="top">
 
-<table width="100%" cellpadding="14" cellspacing="0" border="1">
-<tr>
-<td>
-
 <sub><b>NETWORK</b></sub>
 
-<table width="100%" cellpadding="7" cellspacing="0" border="0">
-<tr><td><a href="https://www.linkedin.com/in/el-ouarary-abdelaziz-34a815279/">LinkedIn</a></td><td align="right">↗</td></tr>
-<tr><td><a href="mailto:abdlazizelouarary@gmail.com">Gmail</a></td><td align="right">↗</td></tr>
-<tr><td><a href="https://github.com/ElOuarary">GitHub</a></td><td align="right">↗</td></tr>
-<tr><td><a href="https://www.instagram.com/abdelaziz_eloua/">Instagram</a></td><td align="right">↗</td></tr>
-</table>
+[LinkedIn](https://www.linkedin.com/in/el-ouarary-abdelaziz-34a815279/) ↗<br/>
+[Gmail](mailto:abdlazizelouarary@gmail.com) ↗<br/>
+[GitHub](https://github.com/ElOuarary) ↗<br/>
+[Instagram](https://www.instagram.com/abdelaziz_eloua/) ↗
 
 <br/>
 
-<a href="https://github.com/ElOuarary?tab=repositories"><img src="https://img.shields.io/badge/Explore_selected_work-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="Explore selected work"/></a>
-
-</td>
-</tr>
-</table>
+[![Explore selected work](https://img.shields.io/badge/Explore_selected_work-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElOuarary?tab=repositories)
 
 </td>
 </tr>
@@ -51,52 +33,32 @@ Learning by building, deploying, and documenting one system at a time.
 <tr>
 <td width="58%" valign="top">
 
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
-<tr>
-<td>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr><td><sub><b>SELECTED REPOSITORIES</b></sub></td><td align="right"><sub>03 TOTAL</sub></td></tr>
-</table>
+<sub><b>SELECTED REPOSITORIES</b> · 03 TOTAL</sub>
 
 ### Featured Builds
 
-<table width="100%" cellpadding="12" cellspacing="0" border="1">
-<tr>
-<td width="4%" valign="top"><sub><b>01</b></sub></td>
-<td valign="top"><a href="https://github.com/ElOuarary/PasteBin-System"><b>PasteBin-System</b></a><br/><br/>Systems/backend: FastAPI, queues, caching, microservices evolution.<br/><br/><sub><font color="#A78BFA">━━</font> LEARNING LOG</sub></td>
-</tr>
-</table>
+<sub><b>01</b></sub><br/>
+<a href="https://github.com/ElOuarary/PasteBin-System"><b>PasteBin-System</b></a><br/>
+Systems/backend: FastAPI, queues, caching, microservices evolution.<br/>
+<sub><font color="#A78BFA">━━</font> LEARNING LOG</sub>
 
-<br/>
+<hr/>
 
-<table width="100%" cellpadding="12" cellspacing="0" border="1">
-<tr>
-<td width="4%" valign="top"><sub><b>02</b></sub></td>
-<td valign="top"><a href="https://github.com/ElOuarary/enedis_pipeline"><b>enedis_pipeline</b></a><br/><br/>Data pipeline: ingestion → processing → dashboard, Docker.<br/><br/><sub><font color="#A78BFA">━━</font> LEARNING LOG</sub></td>
-</tr>
-</table>
+<sub><b>02</b></sub><br/>
+<a href="https://github.com/ElOuarary/enedis_pipeline"><b>enedis_pipeline</b></a><br/>
+Data pipeline: ingestion → processing → dashboard, Docker.<br/>
+<sub><font color="#A78BFA">━━</font> LEARNING LOG</sub>
 
-<br/>
+<hr/>
 
-<table width="100%" cellpadding="12" cellspacing="0" border="1">
-<tr>
-<td width="4%" valign="top"><sub><b>03</b></sub></td>
-<td valign="top"><a href="https://github.com/ElOuarary/ML-DL-From-Scratch"><b>ML-DL-From-Scratch</b></a><br/><br/>ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/><br/><sub><font color="#A78BFA">━━</font> LEARNING LOG</sub></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+<sub><b>03</b></sub><br/>
+<a href="https://github.com/ElOuarary/ML-DL-From-Scratch"><b>ML-DL-From-Scratch</b></a><br/>
+ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
+<sub><font color="#A78BFA">━━</font> LEARNING LOG</sub>
 
 </td>
 <td width="2%">&nbsp;</td>
 <td width="40%" valign="top">
-
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
-<tr>
-<td>
 
 <sub><b>TOOLBOX</b></sub>
 
@@ -144,15 +106,7 @@ Learning by building, deploying, and documenting one system at a time.
 <img src="assets/chromadb-mark.png" width="30" alt="Chroma"/>&nbsp;
 <img src="https://cdn.simpleicons.org/qdrant" width="30" alt="Qdrant"/>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%" cellpadding="18" cellspacing="0" border="1">
-<tr>
-<td>
+<br/><br/>
 
 <sub><b>GITHUB SIGNAL</b></sub>
 
@@ -163,10 +117,6 @@ Learning by building, deploying, and documenting one system at a time.
 <br/><br/>
 
 <sub><b>PLATFORMS</b> · Docker · Git · Linux</sub>
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
