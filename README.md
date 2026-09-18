@@ -38,22 +38,19 @@ Learning by building, deploying, and documenting one system at a time.
 
 <sub><b>01</b></sub><br/>
 <a href="https://github.com/ElOuarary/PasteBin-System"><b>PasteBin-System</b></a><br/>
-Systems/backend: FastAPI, queues, caching, microservices evolution.<br/>
-<sub><font color="#A78BFA">━━</font> LEARNING LOG</sub>
+Systems/backend: FastAPI, queues, caching, microservices evolution.
 
 <hr/>
 
 <sub><b>02</b></sub><br/>
 <a href="https://github.com/ElOuarary/enedis_pipeline"><b>enedis_pipeline</b></a><br/>
-Data pipeline: ingestion → processing → dashboard, Docker.<br/>
-<sub><font color="#A78BFA">━━</font> LEARNING LOG</sub>
+Data pipeline: ingestion → processing → dashboard, Docker.
 
 <hr/>
 
 <sub><b>03</b></sub><br/>
 <a href="https://github.com/ElOuarary/ML-DL-From-Scratch"><b>ML-DL-From-Scratch</b></a><br/>
-ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
-<sub><font color="#A78BFA">━━</font> LEARNING LOG</sub>
+ML/DL fundamentals: tensor ops, autograd, optimizers, RL.
 
 </td>
 <td width="2%">&nbsp;</td>
