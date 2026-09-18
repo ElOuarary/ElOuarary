@@ -107,7 +107,10 @@ ML/DL fundamentals: tensor ops, autograd, optimizers, RL.<br/>
 
 <br/>
 
-<sub><b>PLATFORMS</b> · Docker · Git · Linux</sub>
+<sub><b>PLATFORMS</b></sub><br/>
+<img src="https://cdn.simpleicons.org/docker" width="30" alt="Docker"/>&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="30" alt="Git"/>&nbsp;
+<img src="https://cdn.simpleicons.org/linux" width="30" alt="Linux"/>
 
 <br/>
 
